@@ -26,14 +26,14 @@ A Java-based application that analyzes directed graphs to determine whether they
 
 ---
 
-## 📁 Project Structure
+```## 📁 Project Structure
 ├── Main.java
 ├── runBenchmark.java
 ├── benchmarks/
 │ ├── acyclic/
 │ └── cyclic/
 └── README.md
-
+```
 ---
 
 ### File Descriptions
